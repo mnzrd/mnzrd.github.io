@@ -1,0 +1,81 @@
+header
+{
+	background-color : #6CBE4F;
+}
+
+#reservez
+{
+	color : #FFFFFF;
+	font-family : KGHAPPY;
+}
+
+.textemenu
+{
+	color : #FFFFFF;
+	font-family : KGHAPPYSolid;
+	text-transform : uppercase;
+	text-decoration : none;
+	list-style:none;
+	
+}
+
+.textefooter
+{
+	color : #000000;
+	text-decoration : none;
+	list-style : none;
+	
+}
+
+h4
+{
+	color : #71B843;
+}
+
+h1
+{
+	text-decoration: underline;
+	text-decoration-color: #B5CFAF;
+}
+
+h2
+{
+	font-family : KGHAPPY;
+}
+
+@font-face
+{
+	font-family : "KGHappy" ;
+	src : url('polices/KGHAPPY.ttf');
+}
+
+@font-face
+{
+	font-family : "KGHAPPYSolid" ;
+	src : url('polices/KGHAPPYSolid.ttf');
+}
+
+aside
+{
+	background-color : #F3F3F4;
+}
+
+nav
+{
+	background-color : black;
+}
+
+section:nth-child(1)
+{
+	background-color : #C3DF9B;
+}
+
+section:nth-child(2)
+{
+	background-color : #9DCF73;
+}
+
+section:nth-child(3)
+{
+	background-color : #6DBF50;
+}
