@@ -1,1 +1,0 @@
-# mnzrd.github.io
